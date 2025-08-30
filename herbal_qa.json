@@ -1459,5 +1459,413 @@
   {
     "instruction": "My teenager has persistent mood swings related to menstrual cycle.",
     "output": "This is premenstrual syndrome affecting mood. Give chasteberry for hormonal balance. Include magnesium for mood stability. Practice stress management techniques. Track symptoms and maintain regular exercise routine."
+  },
+  {
+    "instruction": "I have minor cuts and scrapes from gardening.",
+    "output": "Clean with soap and water first. Apply honey for its natural antibacterial properties, or use aloe vera gel. Cover with clean bandage. **See a doctor if signs of infection develop (redness, warmth, pus, red streaking).**"
+  },
+  {
+    "instruction": "I have mild indigestion after a heavy meal.",
+    "output": "Try ginger tea or peppermint tea to soothe stomach. Chew fennel seeds after meals. Take a gentle walk. **Consult a doctor if severe pain, vomiting, or symptoms persist beyond 24 hours.**"
+  },
+  {
+    "instruction": "I have a minor sunburn on my arms.",
+    "output": "Apply cool aloe vera gel or cold milk compresses. Take cool baths with oatmeal. Stay hydrated. Avoid further sun exposure. **Seek medical care for severe burns with blistering or fever.**"
+  },
+  {
+    "instruction": "I have mild morning sickness during pregnancy.",
+    "output": "Try ginger tea in small amounts or crystallized ginger. Eat small, frequent meals. Keep crackers by bedside. **Always consult your doctor about pregnancy symptoms and before using any remedies.**"
+  },
+  {
+    "instruction": "I have chapped lips from cold weather.",
+    "output": "Apply coconut oil, shea butter, or honey. Stay hydrated. Use a humidifier indoors. Avoid licking lips. **See a doctor if cracking is severe or doesn't improve with basic care.**"
+  },
+  {
+    "instruction": "I have mild stress and trouble relaxing.",
+    "output": "Try chamomile tea before bed. Practice deep breathing exercises. Use lavender aromatherapy. Take warm baths. **Seek professional help if stress significantly impacts daily life or sleep.**"
+  },
+  {
+    "instruction": "I have minor muscle soreness after exercise.",
+    "output": "Apply cold compress initially, then warm compress after 24 hours. Take warm baths with Epsom salt. Gentle stretching helps. **Consult a doctor for severe pain, swelling, or if pain persists beyond a few days.**"
+  },
+  {
+    "instruction": "I have dry, itchy skin in winter.",
+    "output": "Apply coconut oil or oatmeal-based moisturizer after bathing. Use lukewarm water, not hot. Run a humidifier. **See a dermatologist if severe itching, rash, or signs of infection develop.**"
+  },
+  {
+    "instruction": "I have mild headache from dehydration.",
+    "output": "Drink water slowly. Apply cool compress to forehead. Rest in a dark, quiet room. Try peppermint oil on temples (diluted). **Seek medical care for severe headaches, vision changes, or neck stiffness.**"
+  },
+  {
+    "instruction": "I have occasional mild heartburn.",
+    "output": "Chew on fennel seeds or drink chamomile tea. Eat smaller meals. Avoid lying down after eating. **Consult a doctor if heartburn is frequent, severe, or accompanied by chest pain.**"
+  },
+  {
+    "instruction": "I have a stuffy nose from a cold.",
+    "output": "Try steam inhalation with eucalyptus oil. Use saline nasal spray. Drink warm fluids. Apply warm compress over sinuses. **See a doctor if symptoms worsen, fever develops, or persist beyond 10 days.**"
+  },
+  {
+    "instruction": "I have rough, callused feet.",
+    "output": "Soak feet in warm water, then gently exfoliate with pumice stone. Apply thick moisturizer or coconut oil at night. Wear cotton socks. **Consult a podiatrist for painful calluses or if you have diabetes.**"
+  },
+  {
+    "instruction": "I have mild anxiety before presentations.",
+    "output": "Try deep breathing exercises. Drink calming herbal tea like lemon balm. Practice progressive muscle relaxation. Use lavender aromatherapy. **Seek professional help if anxiety significantly impacts work or daily activities.**"
+  },
+  {
+    "instruction": "I have a minor bee sting with local swelling.",
+    "output": "Remove stinger if visible. Apply cold compress. Use baking soda paste or diluted vinegar. Take oral antihistamine if available. **Seek emergency care for severe allergic reactions (difficulty breathing, widespread swelling).**"
+  },
+  {
+    "instruction": "I have mild constipation for 2 days.",
+    "output": "Increase water intake and fiber-rich foods. Try prunes or prune juice. Gentle abdominal massage may help. Take short walks. **Consult a doctor if constipation persists beyond a week or causes severe pain.**"
+  },
+  {
+    "instruction": "I have puffy eyes from lack of sleep.",
+    "output": "Apply cool cucumber slices or cold tea bags. Gently massage around eyes. Use cool water splash. Get adequate rest. **See a doctor if swelling is severe, painful, or accompanied by vision changes.**"
+  },
+  {
+    "instruction": "I have mild seasonal allergies with sneezing.",
+    "output": "Try local honey (1 tablespoon daily). Use nettle tea as natural antihistamine. Keep windows closed during high pollen days. **Consult a doctor if symptoms are severe or interfere with breathing.**"
+  },
+  {
+    "instruction": "I have a minor splinter in my finger.",
+    "output": "Clean hands and tweezers with alcohol. Gently remove splinter. Apply honey or antibiotic ointment. Cover with bandage. **See a doctor if splinter is deep, breaks off, or shows signs of infection.**"
+  },
+  {
+    "instruction": "I have mild motion sickness during car rides.",
+    "output": "Try ginger capsules or crystallized ginger before travel. Focus on horizon. Ensure good ventilation. Avoid reading while moving. **Consult a doctor if motion sickness is severe or affects daily activities.**"
+  },
+  {
+    "instruction": "I have brittle nails that break easily.",
+    "output": "Apply jojoba oil to nails and cuticles daily. Include biotin-rich foods like eggs. Wear gloves when cleaning. Keep nails short. **See a doctor if nail changes are sudden or accompanied by other symptoms.**"
+  },
+  {
+    "instruction": "I have mild insomnia and restless sleep.",
+    "output": "Try valerian root tea 30 minutes before bed. Create a cool, dark sleep environment. Avoid screens 1 hour before sleep. **Consult a doctor if insomnia persists beyond 2 weeks or significantly impacts daily function.**"
+  },
+  {
+    "instruction": "I have a small wart on my hand.",
+    "output": "Apply duct tape method (cover for 6 days, then soak and file). Try tea tree oil applied directly. Include immune-supporting foods. **See a dermatologist if warts multiply, are painful, or don't respond to home treatment.**"
+  },
+  {
+    "instruction": "I have mild dandruff and itchy scalp.",
+    "output": "Use apple cider vinegar rinse (diluted 1:4 with water). Try tea tree oil in your shampoo. Massage scalp with coconut oil. **Consult a dermatologist if severe itching, inflammation, or hair loss occurs.**"
+  },
+  {
+    "instruction": "I have hiccups that won't stop.",
+    "output": "Hold breath for 10-15 seconds, then exhale slowly. Drink a glass of water slowly. Try a teaspoon of sugar under tongue. **Seek medical care if hiccups persist beyond 48 hours or interfere with eating/sleeping.**"
+  },
+  {
+    "instruction": "I have mild menstrual cramps.",
+    "output": "Apply heating pad to lower abdomen. Try ginger tea or chamomile tea. Gentle exercise like walking helps. Magnesium supplements may reduce cramping. **Consult a gynecologist for severe pain or irregular periods.**"
+  },
+  {
+    "instruction": "I have a canker sore in my mouth.",
+    "output": "Rinse with salt water (1 tsp in warm water). Apply honey directly to sore. Avoid spicy, acidic foods. Use chamomile tea as mouth rinse. **See a doctor if sores are large, persist beyond 2 weeks, or recur frequently.**"
+  },
+  {
+    "instruction": "I have mild eczema patches on my hands.",
+    "output": "Apply coconut oil or shea butter while skin is damp. Use oatmeal baths for soothing. Avoid harsh soaps and fragrances. **Consult a dermatologist if eczema spreads, becomes infected, or severely impacts quality of life.**"
+  },
+  {
+    "instruction": "I have tension in my neck and shoulders.",
+    "output": "Apply warm compress for 15-20 minutes. Try gentle neck stretches. Use peppermint oil massage (diluted). Practice good posture. **See a doctor for severe pain, numbness, or if pain radiates down arms.**"
+  },
+  {
+    "instruction": "I have mild food poisoning symptoms.",
+    "output": "Stay hydrated with clear fluids. Try ginger tea for nausea. Eat bland foods like rice and toast when ready. Rest adequately. **Seek immediate medical care for severe dehydration, high fever, or blood in stool.**"
+  },
+  {
+    "instruction": "I have a mild yeast infection symptoms.",
+    "output": "Try plain yogurt (externally) for probiotics. Wear cotton underwear. Avoid tight clothing. Include garlic in diet. **Consult a doctor for diagnosis confirmation and if symptoms persist or worsen.**"
+  },
+  {
+    "instruction": "I have mild acid reflux occasionally.",
+    "output": "Chew food slowly and thoroughly. Drink chamomile tea after meals. Sleep with head elevated. Avoid trigger foods. **See a doctor if reflux is frequent, severe, or affects sleep and daily activities.**"
+  },
+  {
+    "instruction": "I have dark circles under my eyes from stress.",
+    "output": "Apply cool cucumber slices or potato juice. Get adequate sleep (7-9 hours). Use cold compresses. Stay hydrated. **Consult a doctor if dark circles appear suddenly or are accompanied by other symptoms.**"
+  },
+  {
+    "instruction": "I have mild athlete's foot between toes.",
+    "output": "Keep feet clean and dry. Apply tea tree oil (diluted). Use antifungal powder. Wear breathable shoes and cotton socks. **See a doctor if infection spreads, becomes severe, or doesn't improve with basic care.**"
+  },
+  {
+    "instruction": "I have occasional mild dizziness when standing.",
+    "output": "Stand up slowly from sitting or lying down. Stay hydrated. Ensure adequate salt intake. Avoid sudden movements. **Seek medical evaluation if dizziness is frequent, severe, or accompanied by chest pain or shortness of breath.**"
+  },
+  {
+    "instruction": "I have mild lower back stiffness in the morning.",
+    "output": "Try gentle back stretches before getting out of bed. Apply warm compress. Sleep with pillow between knees. Practice good posture. **Consult a doctor for severe pain, numbness, or if pain radiates down legs.**"
+  },
+  {
+    "instruction": "I have rough, dry elbows and knees.",
+    "output": "Exfoliate gently with sugar scrub. Apply thick moisturizer or coconut oil. Use petroleum jelly overnight. Avoid harsh scrubbing. **See a dermatologist if skin changes are sudden or don't improve with moisturizing.**"
+  },
+  {
+    "instruction": "I have mild seasonal hay fever symptoms.",
+    "output": "Try local honey (1 tablespoon daily). Use saline nasal rinse. Keep windows closed during high pollen times. Shower after being outdoors. **Consult a doctor if symptoms are severe or interfere with sleep and daily activities.**"
+  },
+  {
+    "instruction": "I have occasional mild nausea in the morning.",
+    "output": "Try ginger tea or ginger capsules. Eat small, frequent meals. Keep crackers by bedside. Avoid strong odors. **See a doctor if nausea is persistent, severe, or accompanied by vomiting or weight loss.**"
+  },
+  {
+    "instruction": "I have minor acne breakouts on my face.",
+    "output": "Use gentle tea tree oil spot treatment (diluted). Apply honey masks weekly. Avoid touching face. Use non-comedogenic products. **Consult a dermatologist if acne is severe, cystic, or causes scarring.**"
+  },
+  {
+    "instruction": "I have mild dry eyes from computer use.",
+    "output": "Follow the 20-20-20 rule (every 20 minutes, look 20 feet away for 20 seconds). Use preservative-free artificial tears. Blink more consciously. **See an eye doctor if dryness is severe or accompanied by vision changes.**"
+  },
+  {
+    "instruction": "I have occasional mild joint stiffness.",
+    "output": "Try gentle stretching and movement. Apply warm compress to stiff joints. Include anti-inflammatory foods like turmeric in diet. Stay active. **Consult a doctor if stiffness is severe, persistent, or accompanied by swelling or fever.**"
+  },
+  {
+    "instruction": "I have mild cold sores starting to appear.",
+    "output": "Apply ice at first sign of tingling. Use lemon balm cream or lysine supplements. Avoid acidic foods. Keep area clean. **See a doctor if cold sores are frequent, severe, or don't heal within 2 weeks.**"
+  },
+  {
+    "instruction": "I have occasional mild bloating after meals.",
+    "output": "Try peppermint tea after eating. Chew fennel seeds. Eat smaller, more frequent meals. Take short walks after meals. **Consult a doctor if bloating is severe, persistent, or accompanied by significant pain.**"
+  },
+  {
+    "instruction": "I have mild hair loss and thinning.",
+    "output": "Massage scalp with rosemary oil. Include protein-rich foods. Avoid tight hairstyles. Use gentle, sulfate-free shampoos. **See a doctor if hair loss is sudden, patchy, or accompanied by other symptoms.**"
+  },
+  {
+    "instruction": "I have minor bruising from bumping into furniture.",
+    "output": "Apply cold compress immediately for 15-20 minutes. Use arnica gel for healing. Elevate bruised area if possible. **Seek medical care if bruising is excessive, unexplained, or doesn't heal normally.**"
+  },
+  {
+    "instruction": "I have mild bad breath in the morning.",
+    "output": "Practice good oral hygiene - brush, floss, and use tongue scraper. Try oil pulling with coconut oil. Chew parsley or mint leaves. Stay hydrated. **Consult a dentist if bad breath persists despite good hygiene.**"
+  },
+  {
+    "instruction": "I have occasional mild leg cramps at night.",
+    "output": "Stretch calf muscles before bed. Stay hydrated during the day. Include magnesium-rich foods like bananas. Apply warm compress. **See a doctor if cramps are frequent, severe, or accompanied by swelling.**"
+  },
+  {
+    "instruction": "I have mild seasonal dry skin patches.",
+    "output": "Apply moisturizer while skin is still damp. Use gentle, fragrance-free products. Take shorter, lukewarm showers. Run a humidifier. **Consult a dermatologist if patches are inflamed, infected, or spreading rapidly.**"
+  },
+  {
+    "instruction": "I have minor hangnails around my nails.",
+    "output": "Soak hands in warm water, then gently push back cuticles. Apply cuticle oil or vitamin E oil. Avoid picking or tearing. **See a doctor if hangnails become infected (red, swollen, pus).**"
+  },
+  {
+    "instruction": "I have mild congestion from allergies.",
+    "output": "Use saline nasal rinse twice daily. Try steam inhalation. Keep allergens like dust to minimum. Use air purifier. **Consult a doctor if congestion is severe or accompanied by facial pain or fever.**"
+  },
+  {
+    "instruction": "I have occasional mild headaches from eye strain.",
+    "output": "Take regular breaks from screens. Ensure proper lighting. Try cool compress on eyes. Practice eye exercises. **See an eye doctor if headaches are frequent or accompanied by vision changes.**"
+  },
+  {
+    "instruction": "I have mild split ends in my hair.",
+    "output": "Apply coconut oil or argan oil to ends. Use wide-tooth comb on wet hair. Avoid heat styling tools. Get regular trims. **Consider professional hair care consultation for severely damaged hair.**"
+  },
+  {
+    "instruction": "I have minor razor burn after shaving.",
+    "output": "Apply cool aloe vera gel immediately. Use witch hazel as astringent. Avoid tight clothing on area. Next time, use sharp razor and shaving cream. **See a doctor if razor burn becomes infected or severely inflamed.**"
+  },
+  {
+    "instruction": "I have mild swelling in fingers after long flight.",
+    "output": "Elevate hands above heart level. Do finger exercises and stretches. Stay hydrated. Avoid tight jewelry. **Seek medical care if swelling is severe, asymmetric, or accompanied by pain or color changes.**"
+  },
+  {
+    "instruction": "I have occasional mild digestive upset from spicy food.",
+    "output": "Drink milk or eat yogurt to neutralize spice. Try ginger tea for nausea. Eat bland foods like rice and banana. **Consult a doctor if symptoms are severe or if you experience persistent digestive issues.**"
+  },
+  {
+    "instruction": "I have mild chafing from exercise clothing.",
+    "output": "Clean area gently and apply aloe vera gel. Use powder to keep area dry. Wear moisture-wicking, properly fitted clothing. **See a doctor if chafing becomes infected or severely painful.**"
+  },
+  {
+    "instruction": "I have occasional mild dryness in my mouth.",
+    "output": "Increase water intake throughout day. Chew sugar-free gum to stimulate saliva. Use humidifier at night. Avoid caffeine before bed. **Consult a doctor if dry mouth is persistent or affects eating and speaking.**"
+  },
+  {
+    "instruction": "I have minor cuticle irritation around nails.",
+    "output": "Soak hands in warm soapy water. Apply cuticle cream or oil. Avoid cutting cuticles - push them back gently. Wear gloves when cleaning. **See a doctor if cuticles become infected or severely inflamed.**"
+  },
+  {
+    "instruction": "I have mild seasonal mood changes in winter.",
+    "output": "Get morning sunlight exposure when possible. Try light therapy lamp. Include omega-3 rich foods. Maintain regular exercise routine. **Seek professional help if mood changes significantly impact daily life.**"
+  },
+  {
+    "instruction": "I have occasional mild knee stiffness after sitting.",
+    "output": "Take regular movement breaks when sitting long periods. Do gentle knee circles and stretches. Apply warm compress before activity. **Consult a doctor if stiffness is severe, persistent, or accompanied by swelling or pain.**"
+  },
+  {
+    "instruction": "I have mild morning stiffness in my hands.",
+    "output": "Do gentle hand exercises upon waking. Run hands under warm water. Apply hand cream with gentle massage. Avoid gripping activities first thing. **See a doctor if stiffness is severe or accompanied by significant pain or swelling.**"
+  },
+  {
+    "instruction": "I have occasional mild ear pressure from altitude changes.",
+    "output": "Try swallowing, yawning, or gentle jaw movements. Use saline nasal spray before flying. Chew gum during takeoff and landing. **Seek medical care if ear pain is severe or hearing is affected.**"
+  },
+  {
+    "instruction": "I have mild redness from new skincare product.",
+    "output": "Discontinue the product immediately. Apply cool compress. Use gentle, fragrance-free moisturizer. Avoid other new products. **Consult a dermatologist if reaction is severe or doesn't improve within a few days.**"
+  },
+  {
+    "instruction": "I have occasional mild foot odor.",
+    "output": "Wash feet daily with antibacterial soap. Use antifungal powder. Wear moisture-wicking socks. Rotate shoes to allow drying. **See a doctor if odor is sudden, severe, or accompanied by infection signs.**"
+  },
+  {
+    "instruction": "I have mild lip dryness and small cracks.",
+    "output": "Apply natural lip balm frequently. Use honey as overnight treatment. Stay hydrated. Avoid licking lips. **Consult a doctor if cracks are deep, bleeding, or don't heal with basic care.**"
+  },
+  {
+    "instruction": "I have occasional mild dizziness when dehydrated.",
+    "output": "Sit or lie down immediately. Drink water slowly. Eat something with natural sugars like fruit. Rest in cool environment. **Seek immediate medical care if dizziness is severe or accompanied by chest pain or fainting.**"
+  },
+  {
+    "instruction": "I have mild scalp irritation from new shampoo.",
+    "output": "Stop using the product immediately. Rinse scalp thoroughly with cool water. Use gentle, fragrance-free shampoo. Apply aloe vera gel if irritated. **See a dermatologist if irritation is severe or doesn't improve within days.**"
+  },
+  {
+    "instruction": "I have occasional mild stomach gurgling and gas.",
+    "output": "Try fennel tea or peppermint tea. Avoid gas-producing foods like beans and carbonated drinks. Eat slowly and chew thoroughly. **Consult a doctor if accompanied by severe pain, persistent symptoms, or changes in bowel habits.**"
+  },
+  {
+    "instruction": "I have mild swelling in ankles after long day standing.",
+    "output": "Elevate feet above heart level. Do ankle circles and calf raises. Wear compression socks if needed. Avoid standing for long periods. **See a doctor if swelling is sudden, severe, or doesn't improve with elevation.**"
+  },
+  {
+    "instruction": "I have occasional mild soreness in jaw from teeth grinding.",
+    "output": "Apply warm compress to jaw muscles. Practice jaw relaxation exercises. Avoid hard, chewy foods temporarily. Consider stress management techniques. **Consult a dentist if grinding is frequent or causes significant pain.**"
+  },
+  {
+    "instruction": "I have mild ingrown hair bumps after shaving.",
+    "output": "Apply warm compress to soften skin. Use gentle exfoliation with soft brush. Apply tea tree oil (diluted). Avoid tight clothing over area. **See a doctor if bumps become infected or severely inflamed.**"
+  },
+  {
+    "instruction": "I have occasional mild nosebleeds in dry weather.",
+    "output": "Pinch nose gently and lean forward. Use humidifier to add moisture to air. Apply petroleum jelly inside nostrils. Avoid nose picking. **Seek medical care if nosebleeds are frequent, heavy, or don't stop with pressure.**"
+  },
+  {
+    "instruction": "I have mild ringing in ears after loud concert.",
+    "output": "Rest ears in quiet environment. Avoid further loud noise exposure. Stay hydrated. Gentle jaw exercises may help. **See a doctor if ringing persists beyond 24-48 hours or is accompanied by hearing loss.**"
+  },
+  {
+    "instruction": "I have occasional mild heartburn during pregnancy.",
+    "output": "Eat smaller, frequent meals. Sleep with head elevated. Avoid spicy and acidic foods. Try ginger tea in moderation. **Always consult your doctor about pregnancy symptoms and before trying any remedies.**"
+  },
+  {
+    "instruction": "I have mild cradle cap on my baby's scalp.",
+    "output": "Gently massage scalp with baby oil. Use soft brush to loosen flakes. Give gentle baths with mild baby shampoo. Don't pick at scales. **Consult pediatrician if cradle cap is severe or spreads to other areas.**"
+  },
+  {
+    "instruction": "I have mild morning sickness with pregnancy.",
+    "output": "Try small amounts of ginger tea. Eat crackers before getting out of bed. Have small, frequent meals. Avoid strong odors. **Always consult your doctor about pregnancy symptoms and safe remedies.**"
+  },
+  {
+    "instruction": "I have minor scrapes on knees from falling.",
+    "output": "Clean gently with soap and water. Apply antibiotic ointment. Cover with clean bandage. Keep wound moist for healing. **See a doctor if scrapes are deep, dirty, or show signs of infection.**"
+  },
+  {
+    "instruction": "I have mild tongue irritation from accidentally biting it.",
+    "output": "Rinse mouth with cool salt water. Avoid spicy and acidic foods. Suck on ice chips for numbing. Use soft foods temporarily. **Consult a doctor if injury is severe or doesn't heal within a week.**"
+  },
+  {
+    "instruction": "I have occasional mild hand tremors when nervous.",
+    "output": "Practice deep breathing exercises. Reduce caffeine intake. Try chamomile tea for calming. Ensure adequate sleep. **See a doctor if tremors are frequent, severe, or interfere with daily activities.**"
+  },
+  {
+    "instruction": "I have mild heat rash from hot weather.",
+    "output": "Keep affected area cool and dry. Apply calamine lotion or aloe vera gel. Wear loose, breathable clothing. Take cool baths. **Consult a doctor if rash spreads, becomes infected, or is accompanied by fever.**"
+  },
+  {
+    "instruction": "I have occasional mild muscle twitching in eyelid.",
+    "output": "Reduce caffeine and get adequate sleep. Apply warm compress to eye area. Manage stress levels. Stay hydrated. **See a doctor if twitching is persistent, affects vision, or spreads to other facial muscles.**"
+  },
+  {
+    "instruction": "I have mild congestion in chest from cold.",
+    "output": "Try steam inhalation with eucalyptus oil. Drink warm fluids like herbal tea. Use humidifier in room. Sleep with head elevated. **Consult a doctor if congestion worsens, fever develops, or breathing becomes difficult.**"
+  },
+  {
+    "instruction": "I have minor paper cuts on my fingers.",
+    "output": "Clean with soap and water. Apply small amount of antibiotic ointment. Use adhesive bandage if needed. Keep clean and dry. **See a doctor if cuts become infected or don't heal properly.**"
+  },
+  {
+    "instruction": "I have mild restlessness and trouble concentrating.",
+    "output": "Try deep breathing exercises. Take short breaks from work. Use peppermint aromatherapy. Practice mindfulness techniques. **Seek professional help if restlessness significantly impacts work or relationships.**"
+  },
+  {
+    "instruction": "I have occasional mild back pain from poor posture.",
+    "output": "Improve workstation ergonomics. Take frequent posture breaks. Do gentle back stretches. Apply heat therapy for muscle tension. **Consult a doctor if pain is severe, persistent, or radiates to legs.**"
+  },
+  {
+    "instruction": "I have mild skin irritation from new detergent.",
+    "output": "Switch back to previous detergent. Wash clothes again with fragrance-free detergent. Apply cool compress to irritated skin. Use gentle moisturizer. **See a dermatologist if reaction is severe or spreads.**"
+  },
+  {
+    "instruction": "I have occasional mild difficulty swallowing with dry throat.",
+    "output": "Stay well hydrated throughout day. Try warm honey water or throat coat tea. Use humidifier. Avoid dry, scratchy foods. **Consult a doctor immediately if swallowing difficulty is severe or worsening.**"
+  },
+  {
+    "instruction": "I have mild varicose vein discomfort in legs.",
+    "output": "Elevate legs when resting. Wear compression stockings during day. Do regular walking exercise. Avoid prolonged standing. **See a doctor if veins become painful, swollen, or develop skin changes.**"
+  },
+  {
+    "instruction": "I have occasional mild plantar fasciitis heel pain in morning.",
+    "output": "Stretch calf muscles before getting out of bed. Roll foot over tennis ball. Apply ice after activity. Wear supportive shoes. **Consult a podiatrist if pain is severe or interferes with walking.**"
+  },
+  {
+    "instruction": "I have mild sensitivity to certain foods causing stomach upset.",
+    "output": "Keep a food diary to identify triggers. Eliminate suspect foods temporarily. Try digestive enzyme supplements with meals. Eat slowly and mindfully. **See a doctor if symptoms are severe or suggest food allergies.**"
+  },
+  {
+    "instruction": "I have minor age spots on my hands from sun exposure.",
+    "output": "Apply vitamin C serum or lemon juice daily. Use sunscreen consistently. Try gentle exfoliation with sugar scrub. Include antioxidant-rich foods. **Consult a dermatologist if spots change in size, color, or texture.**"
+  },
+  {
+    "instruction": "I have mild vocal hoarseness after talking too much.",
+    "output": "Rest voice by speaking minimally. Drink warm water with honey. Use steam inhalation. Avoid whispering and throat clearing. **See a doctor if hoarseness persists beyond 2 weeks or worsens.**"
+  },
+  {
+    "instruction": "I have occasional mild joint clicking without pain.",
+    "output": "This is often normal if painless. Maintain regular gentle movement. Include anti-inflammatory foods in diet. Avoid excessive joint cracking. **Consult a doctor if clicking becomes painful or joints become stiff.**"
+  },
+  {
+    "instruction": "I have mild sensitivity to bright lights causing squinting.",
+    "output": "Wear sunglasses outdoors. Adjust screen brightness appropriately. Use warm lighting indoors. Take breaks from bright environments. **See an eye doctor if light sensitivity is severe or accompanied by pain or vision changes.**"
+  },
+  {
+    "instruction": "I have minor cuts from shaving with razor.",
+    "output": "Apply cold water immediately to stop bleeding. Use alum or witch hazel as astringent. Apply antibiotic ointment. Avoid tight clothing over area. **See a doctor if cuts are deep or become infected.**"
+  },
+  {
+    "instruction": "I have mild seasonal stuffiness without other cold symptoms.",
+    "output": "Use saline nasal spray regularly. Try nettle tea as natural antihistamine. Keep windows closed during high pollen days. **Consult a doctor if stuffiness is severe or accompanied by facial pain.**"
+  },
+  {
+    "instruction": "I have occasional mild toe pain from tight shoes.",
+    "output": "Wear properly fitted shoes with adequate toe room. Apply ice if swollen. Do toe stretches and flexing exercises. Use cushioned insoles. **See a podiatrist if pain persists or toes show deformity.**"
+  },
+  {
+    "instruction": "I have mild stretch marks from weight changes.",
+    "output": "Apply vitamin E oil or cocoa butter daily. Use gentle exfoliation with dry brushing. Include vitamin C rich foods. Stay hydrated. **Consult a dermatologist for severe stretch marks or skin texture concerns.**"
+  },
+  {
+    "instruction": "I have occasional mild finger stiffness in cold weather.",
+    "output": "Keep hands warm with gloves. Do finger flexing exercises. Apply warm compress before activities. Use hand cream regularly. **See a doctor if stiffness is severe or accompanied by color changes in fingers.**"
+  },
+  {
+    "instruction": "I have mild morning breath despite brushing teeth.",
+    "output": "Use antibacterial mouthwash. Practice tongue scraping daily. Stay hydrated overnight. Avoid eating late at night. **Consult a dentist if bad breath persists despite good oral hygiene.**"
+  },
+  {
+    "instruction": "I have minor blisters on feet from new shoes.",
+    "output": "Don't pop blisters. Apply moleskin or bandage for protection. Use antibiotic ointment if skin breaks. Switch to better-fitting shoes. **See a doctor if blisters become infected or are unusually large.**"
+  },
+  {
+    "instruction": "I have mild scalp itching without visible flakes.",
+    "output": "Use gentle, sulfate-free shampoo. Try diluted apple cider vinegar rinse. Massage scalp with tea tree oil (diluted). Avoid over-washing hair. **Consult a dermatologist if itching is severe or accompanied by redness or hair loss.**"
   }
-]
+  ]

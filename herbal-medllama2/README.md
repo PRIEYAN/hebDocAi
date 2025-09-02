@@ -39,10 +39,10 @@ This model was trained with SFT.
 
 - PEFT 0.17.1
 - TRL: 0.22.1
-- Transformers: 4.55.4
+- Transformers: 4.56.0
 - Pytorch: 2.8.0
 - Datasets: 4.0.0
-- Tokenizers: 0.21.4
+- Tokenizers: 0.22.0
 
 ## Citations
 
